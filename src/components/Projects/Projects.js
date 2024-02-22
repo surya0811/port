@@ -6,7 +6,7 @@ import leaf from "../../Assets/Projects/travel.png";
 // import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/image5.jpeg";
 import chatify from "../../Assets/Projects/image4.png";
-import suicide from "../../Assets/Projects/suicide.png";
+import suicide from "../../Assets/Projects/asset.png";
 import bitsOfCode from "../../Assets/Projects/cultural.png";
 
 function Projects() {
