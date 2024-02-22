@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently pursuing undergraduation  at Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya.
             <br />
-            Bachelor of  Computer Science And Engineering at SCSVMV.
+            Bachelor of <span className="purple"> Computer Science And Engineering </span> at SCSVMV, Chennai Tamilnadu.
             
             <br />
             <br />
