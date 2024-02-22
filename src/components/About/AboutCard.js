@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently pursuing undergraduation  at Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya.
             <br />
-            I am pursing  (BE) Computer Science And Engineering at SCSVMV.
+            Bachelor of  Computer Science And Engineering at SCSVMV.
             
             <br />
             <br />
