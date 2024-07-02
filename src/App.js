@@ -7,6 +7,7 @@ import Projects from "./components/Projects/Projects";
 import Trainings from "./components/Trainings/Trainings";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
+
 import {
   BrowserRouter as Router,
   Route,
@@ -17,6 +18,7 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+
 
 function App() {
   const [load, upadateLoad] = useState(true);
