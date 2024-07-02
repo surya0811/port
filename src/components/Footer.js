@@ -12,6 +12,7 @@ function Footer() {
   let year = date.getFullYear();
   const email = "vemparalasurya583@gmail.com";
   const encodedEmail = encodeEmail(email);
+  const encodedMailtoLink = `mailto:${encodedEmail}`;
 
   return (
     <Container fluid className="footer">
@@ -36,7 +37,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href={`mailto:${encodedEmail}`}
+                href={encodedMailtoLink}
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
