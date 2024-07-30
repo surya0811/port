@@ -45,7 +45,7 @@ function Trainings() {
             <TrainingCard
               imgPath={excel}
               isBlog={false}
-              title="Microsoft Excel (Courusera)"
+              title="Microsoft Excel (Coursera)"
               description="It helps in engaging simple tricky works that used in excel to display the efficicent and fast data."
               duration="15 days of training-2021"             
             />
